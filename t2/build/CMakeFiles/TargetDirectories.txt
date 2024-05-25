@@ -1,0 +1,5 @@
+/home/lth/backup/cmake/t2/build/CMakeFiles/edit_cache.dir
+/home/lth/backup/cmake/t2/build/CMakeFiles/rebuild_cache.dir
+/home/lth/backup/cmake/t2/build/bin/CMakeFiles/hell0.dir
+/home/lth/backup/cmake/t2/build/bin/CMakeFiles/edit_cache.dir
+/home/lth/backup/cmake/t2/build/bin/CMakeFiles/rebuild_cache.dir
